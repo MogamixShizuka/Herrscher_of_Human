@@ -1,0 +1,11 @@
+Event	ID	Name			Wwise Object Path	Notes
+	8232696	Herrscher_Elysia_KUDOS_A			\Default Work Unit\Speech\Herrscher_Elysia_KUDOS_A	
+	1560864418	Herrscher_Elysia_FIRST_MEET_A			\Default Work Unit\Speech\Herrscher_Elysia_FIRST_MEET_A	
+	1800684073	Herrscher_Elysia_MISC_PEP_TALK_A			\Default Work Unit\Speech\Herrscher_Elysia_MISC_PEP_TALK_A	
+	2005118531	Herrscher_Elysia_DEFEAT_A			\Default Work Unit\Speech\Herrscher_Elysia_DEFEAT_A	
+	2929402435	Herrscher_Elysia_DECLARE_WAR_A			\Default Work Unit\Speech\Herrscher_Elysia_DECLARE_WAR_A	
+	3066524239	Herrscher_Elysia_DECLARE_WAR_FROM_AI_A			\Default Work Unit\Speech\Herrscher_Elysia_DECLARE_WAR_FROM_AI_A	
+	3875402778	Herrscher_Elysia_WARNING_A			\Default Work Unit\Speech\Herrscher_Elysia_WARNING_A	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	194725614	Herrscher_Elysia_DECLARE_WAR_FROM_AI_A	E:\civ6mod\	288873619	Herrscher_Elysia_MISC_PEP_TALK_A	E:\civ6mod\	455333943	Herrscher_Elysia_DEFEAT_A	E:\civ6mod\	810147423	Herrscher_Elysia_DECLARE_WAR_A	E:\civ6mod\	934418982	Herrscher_Elysia_WARNING_A	E:\civ6mod\	1045572226	Herrscher_Elysia_FIRST_MEET_A	E:\civ6mod\	1046298520	Herrscher_Elysia_KUDOS_A	E:\civ6mod\

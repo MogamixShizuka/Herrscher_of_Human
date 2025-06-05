@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="10" SoundbankVersion="113">
+	<RootPaths>
+		<ProjectRoot>E:\civ6mod\往世乐土\爱莉希雅语音\Wwise\Mondstadt\</ProjectRoot>
+		<SourceFilesRoot>E:\civ6mod\往世乐土\爱莉希雅语音\Wwise\Mondstadt\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>E:\civ6mod\往世乐土\爱莉希雅语音\Wwise\Mondstadt\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>E:\civ6mod\往世乐土\爱莉希雅语音\Wwise\Mondstadt\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="456653456" Language="SFX">
+			<ShortName>Herrscher_Speech</ShortName>
+			<Path>Herrscher_Speech.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2929402435" Name="Herrscher_Elysia_DECLARE_WAR_A"/>
+				<Event Id="3066524239" Name="Herrscher_Elysia_DECLARE_WAR_FROM_AI_A"/>
+				<Event Id="2005118531" Name="Herrscher_Elysia_DEFEAT_A"/>
+				<Event Id="1560864418" Name="Herrscher_Elysia_FIRST_MEET_A"/>
+				<Event Id="8232696" Name="Herrscher_Elysia_KUDOS_A"/>
+				<Event Id="1800684073" Name="Herrscher_Elysia_MISC_PEP_TALK_A"/>
+				<Event Id="3875402778" Name="Herrscher_Elysia_WARNING_A"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="194725614" Language="SFX">
+					<ShortName>B.wav</ShortName>
+					<Path>SFX\B_B93921CF.wem</Path>
+				</File>
+				<File Id="288873619" Language="SFX">
+					<ShortName>F.wav</ShortName>
+					<Path>SFX\F_B93921CF.wem</Path>
+				</File>
+				<File Id="455333943" Language="SFX">
+					<ShortName>C.wav</ShortName>
+					<Path>SFX\C_B93921CF.wem</Path>
+				</File>
+				<File Id="810147423" Language="SFX">
+					<ShortName>A.wav</ShortName>
+					<Path>SFX\A_B93921CF.wem</Path>
+				</File>
+				<File Id="934418982" Language="SFX">
+					<ShortName>G.wav</ShortName>
+					<Path>SFX\G_B93921CF.wem</Path>
+				</File>
+				<File Id="1045572226" Language="SFX">
+					<ShortName>D.wav</ShortName>
+					<Path>SFX\D_B93921CF.wem</Path>
+				</File>
+				<File Id="1046298520" Language="SFX">
+					<ShortName>E.wav</ShortName>
+					<Path>SFX\E_B93921CF.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

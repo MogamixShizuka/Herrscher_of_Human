@@ -1,0 +1,11 @@
+Event	ID	Name			Wwise Object Path	Notes
+	641247092	Resume_Music_HOH_ELYSIAN_REALM			\Default Work Unit\Music_01\Resume_Music_HOH_ELYSIAN_REALM	
+	854307629	Pause_Music_HOH_ELYSIAN_REALM			\Default Work Unit\Music_01\Pause_Music_HOH_ELYSIAN_REALM	
+	1027608121	Play_Leader_Music_HOH_ELYSIAN_REALM			\Default Work Unit\Music_01\Play_Leader_Music_HOH_ELYSIAN_REALM	
+	1514898389	Stop_Music_HOH_ELYSIAN_REALM			\Default Work Unit\Music_01\Stop_Music_HOH_ELYSIAN_REALM	
+	1617450983	Play_Music_HOH_ELYSIAN_REALM			\Default Work Unit\Music_01\Play_Music_HOH_ELYSIAN_REALM	
+	3939398083	Stop_Leader_Music_HOH_ELYSIAN_REALM			\Default Work Unit\Music_01\Stop_Leader_Music_HOH_ELYSIAN_REALM	
+	4186465679	Start_Music_HOH_ELYSIAN_REALM			\Default Work Unit\Music_01\Start_Music_HOH_ELYSIAN_REALM	
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	187879073		842512266	HOYO-MiX - Elysian Realm	E:\civ6mod\

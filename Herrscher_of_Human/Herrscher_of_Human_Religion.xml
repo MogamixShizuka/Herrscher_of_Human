@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Religions -->
+<!-- Author: 引若河 -->
+<!-- DateCreated: 2/4/2023 7:40:59 PM -->
+<GameData>
+	<Types>
+		<Row Type="RELIGION_AIMEN" Kind="KIND_RELIGION"/>
+	</Types>
+	<Religions>
+		<Row>
+			<ReligionType>RELIGION_AIMEN</ReligionType>
+			<Name>LOC_RELIGION_AIMEN</Name>
+			<IconString>Ai</IconString>
+			<RequiresCustomName>false</RequiresCustomName>
+			<Color>COLOR_RELIGION_CUSTOM_13</Color>
+		</Row>
+	</Religions>
+	<FavoredReligions>
+		<InsertOrIgnore LeaderType="LEADER_QGG_HOH_ELYSIA" ReligionType="RELIGION_AIMEN"/>
+	</FavoredReligions>
+</GameData>
